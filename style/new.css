@@ -1,5 +1,69 @@
-/* heder img  */
-.bannar{
+/* header section  */
+.header {
+    background-image: url(../resources/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
     display: block;
-    margin: 50px 140px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+.containar {
+    padding: 130px 177px 380px 330px;
+
+}
+
+.Happy {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.new {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    padding-bottom: 100px;
+}
+
+
+
+
+
+
+/* main style  */
+.All {
+    color: #070211;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.our {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.off {
+    color: #FF0000;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+}
+.wlc{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px; 
+letter-spacing: 7.04px;
 }
