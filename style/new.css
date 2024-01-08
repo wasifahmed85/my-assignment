@@ -74,7 +74,7 @@
 }
 
 .wlc-img {
-    background-image: url(../resources/Vectorrr.png) ;
+    background-image: url(../resources/Vectorrr.png);
     width: 1320px;
     height: 600px;
     margin-left: 120px;
@@ -91,4 +91,29 @@
     display: block;
     width: 697px;
     padding-left: 120px;
+}
+
+.button {
+    padding-left: 200px;
+}
+
+.date {
+    text-align: center;
+    height: 182px;
+    padding-bottom: 400px;
+}
+
+.place {
+    color: #F00;
+}
+
+.btn {
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+    color: #FFF;
 }
